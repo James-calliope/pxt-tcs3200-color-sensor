@@ -1,4 +1,4 @@
-# pxt-color_sensor
+# pxt-tcs3200-color-sensor
 
 * for TCS3200 color sensor
 * S0, S1 used for output frequency scaling selection inputs. It is preset at 2%.
@@ -37,7 +37,7 @@ MIT
 
 * for PXT/microbit
 ```sig
-GitHub: BLstem/pxt-color_sensor
+GitHub: BLstem/pxt-tcs3200-color-sensor
 ```
 (The metadata above is needed for package search.)
 
