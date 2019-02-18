@@ -5,7 +5,7 @@
 * S2, S3 used in selection filter type.
 * OUT is frequency output pin.
 * VCC and GND for supply voltage and ground.
-* It takes some time to calibrate the sensor. When calibrating the sesnor, "C" is shown in the display or you can use the serial monitor for more details and more convenience.
+* It takes some time to calibrate the sensor. When calibrating the sesnor, "C" is shown in the display or you can use the serial monitor for more details.
 - check Footnotes for more details.
 
 ## Blocks
